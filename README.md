@@ -32,7 +32,7 @@
 
 ## Project Team  
 - **Former Members**:  
-  - Stamate Narcis (Device programming & construction) | **[Github Profile]**(https://github.com/n41ilexz)  
+  - Stamate Narcis (Device programming & construction) | **[Github Profile](https://github.com/n41ilexz)**  
   - Frunză Mario-Eduard (Design & project presentation)  
 
 ## Resources  
