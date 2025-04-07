@@ -1,4 +1,4 @@
-# HeartTrack (HTK) – Real-Time Cardiovascular Monitoring Device  
+# HeartTrack (HTK) – Real Time Cardiovascular Monitoring Device  
 
 ## Description  
 **HeartTrack (HTK)** is an innovative device designed for real-time cardiovascular health monitoring. The project integrates the **AD8232 ECG sensor** to detect the heart's electrical activity and the **MAX30102 Pulse Oximeter** to measure blood oxygen levels (SpO₂). The device provides comprehensive analysis of heart rhythm and oxygenation, identifying anomalies such as arrhythmias, tachycardia, bradycardia, or early signs of myocardial infarction.  
@@ -12,11 +12,12 @@
 
 ## Components & Technologies  
 - **Hardware**:  
-  - Raspberry Pi 4 and Raspberry Pi Pico for processing.  
-  - AD8232 ECG sensor and MAX30102 Pulse Oximeter.  
+  - Raspberry Pi 4;
+  - Raspberry Pico for processing analog data;  
+  - AD8232 ECG sensor and MAX30102 Pulse Oximeter;  
   - Display screens, buttons, vibration sensor, and buzzer.  
 - **Software**:  
-  - Advanced algorithms for detecting P, Q, R, S, T points and ST segment.  
+  - Advanced algorithms for detecting elevated ST segment and potential arythmias.  
   - Neurokit2 library for ECG data processing.  
   - Threshold-based alert system.  
 
@@ -36,12 +37,12 @@
   - Frunză Mario-Eduard (Design & project presentation)  
 
 ## Resources  
-- [AD8232 Sensor Documentation](https://www.analog.com/en/products/ad8232.html)  
-- [MAX30102 Sensor Documentation](https://www.maximintegrated.com/en/products/MAX30102)  
-- [Neurokit2 Library](https://neurokit2.readthedocs.io/)  
+- **[AD8232 Sensor Documentation](https://www.analog.com/en/products/ad8232.html)**  
+- **[MAX30102 Sensor Documentation](https://www.maximintegrated.com/en/products/MAX30102)**  
+- **[Neurokit2 Library](https://neurokit2.readthedocs.io/)**  
 
 ## License  
-This project is available under the MIT License. See the [LICENSE](LICENSE) file for details.  
+This project is available under the MIT License. See the **[LICENSE](LICENSE)** file for details.  
 
 ---  
-For more information, explore the repository or contact us via the [Issues](https://github.com/username/HeartTrack/issues) section. Contributions are welcome! 🚀
+For more information, explore the repository or contact us via the **[Issues](https://github.com/n41ilexz/HeartTrack/issues)** section. Any contributions are welcome! 
