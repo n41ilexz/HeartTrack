@@ -227,6 +227,7 @@ def main():
                 print("=========================================================")
             else:
                 print("||Nu sunt anomalii detectate.")
+            save_anomalies_to_json()
     except KeyboardInterrupt:
         vibratteur.vibratteur_off()
 
